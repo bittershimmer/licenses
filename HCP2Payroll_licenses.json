@@ -1,14 +1,6 @@
 {
-  "clients": {
-    "LUX-001-HK3D1": {
-      "customer": "Lux Electric Group",
-      "expire": "2027-01-31",
-      "active": true
-    },
-    "ABC-003-KKK88": {
-      "customer": "ABC Construction",
-      "expire": "2025-10-15",
-      "active": false
-    }
-  }
+    "valid_keys": [
+        "LUX-001-HK3D1",
+        "ABC-003-KK88"
+    ]
 }
