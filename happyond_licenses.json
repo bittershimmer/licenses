@@ -1,0 +1,28 @@
+{
+  "clients": {
+    "LUX-001": {
+      "customer": "Lux Electric",
+      "active": true,
+      "product": "HCP2Payroll",
+      "expire": "2026-12-31"
+    },
+    "RM-001": {
+      "customer": "RM Mechanical",
+      "active": true,
+      "product": "HCP2Payroll",
+      "expire": "2026-09-30"
+    },
+    "TEST-EXPIRED": {
+      "customer": "Test User",
+      "active": true,
+      "product": "HCP2Payroll",
+      "expire": "2025-01-01"
+    },
+    "BANNED-001": {
+      "customer": "Blocked Client",
+      "active": false,
+      "product": "HCP2Payroll",
+      "expire": "2027-01-01"
+    }
+  }
+}
