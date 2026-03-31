@@ -3,7 +3,7 @@
     "LUX-001": {
       "customer": "Lux Electric",
       "active": true,
-      "product": "HCP2Payroll",
+      "product": "Bank_statement_to_categorized_Excel",
       "expire": "2026-12-31"
     },
     "RM-001": {
