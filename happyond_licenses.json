@@ -6,6 +6,12 @@
       "product": "Bank_statement_to_categorized_Excel",
       "expire": "2026-12-31"
     },
+    "LUX-002": {
+      "customer": "Lux Electric",
+      "active": true,
+      "product": "Bank_statement_to_categorized_Excel",
+      "expire": "2026-12-31"
+    },
     "RM-001": {
       "customer": "RM Mechanical",
       "active": true,
