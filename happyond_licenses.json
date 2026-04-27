@@ -9,7 +9,7 @@
     "LUX-002": {
       "customer": "Lux Electric",
       "active": true,
-      "product": "Bank_statement_to_categorized_Excel",
+      "product": "Aged_invoices_auto_download",
       "expire": "2026-12-31"
     },
     "RM-001": {
